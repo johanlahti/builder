@@ -48,6 +48,6 @@ For more options, read below.
 
 Note that this tool was originally developed for a specific project and might needs some adaptation to fit your needs. I am working on making it more generic and improving the documentation.
 
-###Questions or suggestions?
+###Contact
 
-Contact me at: johan.lahti (at) malmo.se
+johan.lahti (at) malmo.se or johanlahti (at) gmail.com
