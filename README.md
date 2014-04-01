@@ -34,7 +34,7 @@ To get started, follow these steps:
 2. Download the latest [YUI compiler](https://github.com/yui/yuicompressor/releases)
 3. Open the file config_env.json and set the yuiPath to the YUI compiler's location (.jar file)
 4. Open the file config_sources.json and add the paths to the files you want to compress
-5. Execute the python script build.py using python build.py
+5. Execute the python script build.py using ```python build.py```
 
 This will output 4 files:
 - A merged JS file (all JS files merged into one)
