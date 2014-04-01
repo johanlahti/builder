@@ -50,4 +50,4 @@ Note that this tool was originally developed for a specific project and might ne
 
 ###Contact
 
-johan.lahti (at) malmo.se or johanlahti (at) gmail.com
+johan.lahti (at) malmo.se
