@@ -23,15 +23,15 @@ This tool requires:
 - Python
 
 Optional:
-- YUI compiler for minifying and optimizing the code
-- SASS for converting SCSS files into CSS files
+- [YUI compiler](https://github.com/yui/yuicompressor/releases) for minifying and optimizing the code
+- [SASS](http://sass-lang.com/install) for converting SCSS files into CSS files
 
 ###Get started
 
 To get started, follow these steps:
 
 1. Clone or download the source code of this repository
-2. Download the latest YUI compiler from https://github.com/yui/yuicompressor/releases
+2. Download the latest [YUI compiler](https://github.com/yui/yuicompressor/releases)
 3. Open the file config_env.json and set the yuiPath to the YUI compiler's location (.jar file)
 4. Open the file config_sources.json and add the paths to the files you want to compress
 5. Execute the python script build.py using python build.py
