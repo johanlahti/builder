@@ -1,0 +1,20 @@
+{   
+    "js": [
+		"lib/jquery-1.11.0.min.js",
+		"lib/bootstrap-3/js/bootstrap.min.js"
+    ],
+    
+    "scss": [
+		"core/css/app.scss",
+		"plugins/ThePlugin.scss"
+    ],
+    
+    "css": [
+    	"core/css/app.css",
+		"plugins/ThePlugin.css",
+    	"lib/A-Pure/Css-File.css"
+    ]
+    
+}
+
+

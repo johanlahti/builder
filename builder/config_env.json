@@ -1,0 +1,11 @@
+{
+	"yuiPath": "yuicompressor-2.4.7.jar",
+	
+	"tempPathJS": "build_temp.js",
+	"tempPathCSS": "build_temp.css",
+	
+	"outPathJS": "myapp.min.js",
+	"outPathCSS": "myapp.min.css",
+	
+	"basePath": ""
+}
